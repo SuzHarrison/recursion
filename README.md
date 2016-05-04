@@ -3,10 +3,12 @@
 Write a method factorial that accepts an integer parameter n and that uses recursion to compute and return the value of n factorial (also known as n!).
 
 ## fib(n)
-Write a method fib that accepts an integer n as a parameter and returns the nth fibonacci number.
+Write a method fib that accepts an integer n as a parameter and returns the nth fibonacci number. Addsd the number before it.
+1 1 2 3 5 8 13
+fib(4) = 3
 
 ## pal(s)
-Write a method pal that accepts a string s as a parameter and returns a boolean value indicating if that string is a palindrome or not.
+Write a method pal that accepts a string s as a parameter and returns a boolean value indicating if that string is a palindrome or not. use length of word as base case.
 
 
 ## binary(n)
